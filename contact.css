@@ -77,7 +77,7 @@ html{
  .page-title-wrapper{
    height: 453px;
    position: relative;
-   background-image: url(../img/contact-page-bgi@2x.jpg);  
+   background-image: url(contact-page-bgi@2x.jpg);  
  }
 .page-title{
   font-size: 6rem;
