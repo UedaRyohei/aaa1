@@ -199,7 +199,7 @@ img{
 /* works
 /* ---------------------------- */
 .bg-works{
-  background-image: url(../img/works-bgi@2x.jpg);
+  background-image: url(works-bgi@2x.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -249,20 +249,20 @@ img{
   transition: .3s;
 }
 .service-item.service_1{
-  background-image: url(../img/service-img01@2x.jpg);
+  background-image: url(service-img01@2x.jpg);
 }
 .service-item.service_2{
-  background-image: url(../img/service-img02@2x.jpg);
+  background-image: url(service-img02@2x.jpg);
 }
 .service-item.service_3{
-  background-image: url(../img/sevice-img03@2x.jpg);
+  background-image: url(sevice-img03@2x.jpg);
 }
 
 /* ---------------------------- */
 /* contact
 /* ---------------------------- */
 .bg-contact{
-  background-image: url(../img/contact-bgi@2x.jpg);
+  background-image: url(contact-bgi@2x.jpg);
 }
 .contact-text{
   text-align: center;
